@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'pvlib_ruby/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "PVLIB_Ruby"
+  spec.name          = "pvlib_ruby"
   spec.version       = PvlibRuby::VERSION
   spec.authors       = ["Tadatoshi Takahashi"]
   spec.email         = ["tadatoshi@gmail.com"]
