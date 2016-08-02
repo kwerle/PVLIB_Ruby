@@ -1,6 +1,6 @@
-# NOTE: PVLIB_Ruby gem must be installed in local machine in order to run this code. 
+# NOTE: pvlib_ruby gem must be installed in local machine in order to run this code. 
 #       Execute "rake install" to use the code in this gem. 
-#       Or if you use the gem downloaded from RubyGems.org, you don't have to execute "rake install" and just do "gem install PVLIB_Ruby"
+#       Or if you use the gem downloaded from RubyGems.org, you don't have to execute "rake install" and just do "gem install pvlib_ruby"
 
 require 'pvlib_ruby'
 

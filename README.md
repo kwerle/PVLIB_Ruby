@@ -1,8 +1,8 @@
-# PVLIB_Ruby
+# pvlib_ruby
 
 PVLIB_MatLab translated to Ruby code in Object-Oriented way.
 
-Since the naming convention is PVLIB_[language name], e.g. PVLIB_MatLab, PVLIB_Python, this gem is following the same naming convention, i.e. PVLIB_Ruby. 
+Since the naming convention is PVLIB_[language name], e.g. PVLIB_MatLab, PVLIB_Python, this gem is following the same naming convention, i.e. pvlib_ruby. 
 
 However, internally, this gem is following Ruby naming convention. Hence, the code is under 'lib/pvlib_ruby'. 
 
@@ -11,7 +11,7 @@ However, internally, this gem is following Ruby naming convention. Hence, the co
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'PVLIB_Ruby'
+gem 'pvlib_ruby'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install PVLIB_Ruby
+    $ gem install pvlib_ruby
 
 ## Usage
 
@@ -34,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/PVLIB_Ruby/fork )
+1. Fork it ( https://github.com/[my-github-username]/pvlib_ruby/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
